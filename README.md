@@ -6,7 +6,7 @@ Welcome to my portfolio site where you can explore my professional journey, proj
 
 This portfolio showcases my skills, experience, and projects in web development and UI/UX design.
 
-- **Live Site**: [Jeyastinrishro J Portfolio]()
+- **Live Site**: [Jeyastinrishro J Portfolio](https://my-portfolio-ashy-ten-83.vercel.app/)
 - **GitHub Repository**: [my-Portfolio](https://github.com/RishroJ/my-Portfolio.git)
 
 ## Features
@@ -20,6 +20,6 @@ This portfolio showcases my skills, experience, and projects in web development 
 
 To explore my portfolio and learn more about my work:
 
-1. Visit [Jeyastinrishro J Portfolio]().
+1. Visit [Jeyastinrishro J Portfolio](https://my-portfolio-ashy-ten-83.vercel.app/).
 2. Navigate through different sections including Resume, Projects, and About Me.
 3. Contact me for any inquiries or collaboration opportunities.
